@@ -1,0 +1,93 @@
+# MASTER PROMPT ACUAN KARAKTER & PROPERTI KUNCI
+## Serial: "Kucing Oyen Sang Sultan Kuli" (Penggabungan Lore Lengkap)
+### Standar Visual: Canon EOS R5 85mm f/8, Latar Putih Solid `#FFFFFF`, Deep Focus, Zero Blurry Bokeh, Zero 3D Cartoon/CGI (Nano Banana 2.1)
+
+---
+
+## 1. 🐱 OYEN / OCHI (MODE PENYAMARAN KULI PROYEK RUMAH MEWAH)
+* **Master Seed:** `8849201`
+* **Spesifikasi Biologis:** Kucing cowok oren (*Ginger Tabby*), atletis kekar berotot, bulu oren hangat dengan belang marmalade tegas, mata tembaga-amber tajam berwibawa, bekas luka kecil di ujung telinga kiri.
+* **Kostum Kuli:** Wearpack kanvas katun tebal warna khaki kusam bernoda semen dan oli mesin, kaos abu-abu pudar, sarung tangan kulit tanpa jari, bot kerja kulit cokelat tua, helm proyek kuning tergores.
+
+```text
+Raw unedited full-body studio photograph of Oyen, an athletic anthropomorphic male ginger orange tabby cat construction worker against an isolated seamless solid pure white background (#FFFFFF). Muscular broad-shouldered feline humanoid frame, authentic biological orange tabby fur with marmalade striping, resolute copper-amber eyes, and a small healed battle scar notch on the tip of his left cat ear. Dressed in a dusty, worn khaki-tan duck canvas construction jumpsuit stained with white dry cement powder and engine grease smudges over a faded grey crewneck undershirt, battered fingerless leather work gloves on his clawed paws, and heavy distressed leather work boots. A scratched yellow safety hardhat is held under his arm. Sincere, humble, and hardworking facial expression looking forward. Studio balanced dual-strobe key lighting, deep depth of field at f/8, tack-sharp focus across fur texture, fabric wrinkles, and cement dust particles, zero blurry bokeh, zero shadows on white backdrop, Kodak Vision3 500T 35mm film grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+Negative Prompt: human face, human skin, clean suit, business attire, smiling, 3d render, cgi, cartoon, anime, illustration, doll plastic skin, grey background, text overlay, watermark.
+```
+
+---
+
+## 2. 👑 OYEN / OCHI (MODE SULTAN CEO MEGA-MANSION & IMPERIUM)
+* **Master Seed:** `8849201`
+* **Spesifikasi Biologis:** Karakter Oyen yang sama persis (Ginger tabby, mata tembaga, bekas luka telinga kiri), bulu disisir rapi mengkilap aristokrat, aura kaisar pemangsa tenang dan berkuasa mutlak.
+* **Kostum Sultan:** Jas bespoke 3-piece wol kasmir hitam arang bergaris pinstripe benang emas 24k, rompi senada, kemeja putih katun Mesir, dasi sutra hitam, pin kerah singa bertaring empat emas murni, jam tangan emas Patek Philippe, sepatu pantofel kulit buaya hitam mengkilap.
+
+```text
+Raw unedited full-body studio portrait of Oyen in his true billionaire CEO identity, an anthropomorphic male ginger orange tabby cat tycoon against a seamless solid pure white background (#FFFFFF). Same athletic muscular build and handsome feline facial bone structure, gleaming well-groomed apricot-orange biological fur with defined marmalade stripes, piercing cold copper-amber eyes, and the distinct small battle scar notch on his left ear tip. Dressed in an ultra-luxurious bespoke charcoal-black three-piece cashmere wool business suit woven with subtle 24k gold pinstripes, tailored matching vest, crisp white French-cuff shirt, black silk tie, and a solid sculpted gold Four-Fanged Lion lapel pin. On his left clawed wrist sits a heavy gold celestial luxury watch, and on his feet are mirror-polished black exotic leather dress shoes. Majestic, composed, and imposing posture. Studio rim and key lighting, deep depth of field at f/8, tack-sharp focus from ears to shoe tips, zero blurry bokeh, Kodak Vision3 500T 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+Negative Prompt: dirty clothes, kuli wearpack, human skin, 3d render, cgi, cartoon, anime, airbrushed textures, flat lighting, digital painting, text, watermark.
+```
+
+---
+
+## 3. 💅 MOLLY (KUCING CEWEK MATRE & ANTAGONIS)
+* **Master Seed:** `5528301`
+* **Spesifikasi Biologis:** Kucing cewek Calico-Persia bulu belang tiga putih-oranye-hitam, mata hijau kucing dengan riasan tebal hitam norak (*winged eyeliner & fake eyelashes*), hidung pesek pink mencibir angkuh.
+* **Kostum:** Gaun mini koktail satin sutra warna merah muda fuchsia menyala yang sangat ketat (*garish tight hot-pink satin cocktail mini-dress*), perhiasan imitasi emas tebal bertumpuk di tangan, kacamata hitam desainer, tas tangan kulit imitasi mencolok, sepatu hak tinggi stiletto.
+
+```text
+Raw unedited full-body studio photograph of Molly, an anthropomorphic female Calico-Persian cat social climber villainess against a seamless solid pure white background (#FFFFFF). Slender feminine feline humanoid frame, biological tricolor white-orange-black calico fur, prominent green feline eyes with heavy exaggerated black winged eyeliner. A vain, disdainful, haughty sneer on her pink feline muzzle, ears cocked back arrogantly. Wearing a flashy, tight hot-pink satin cocktail mini-dress, draped with excessive chunky gold-tone faux-jewelry bracelets on her clawed wrists, sparkly high heels, and holding a faux-designer handbag. Standing with hands on hips in an entitled posture. Crisp commercial studio lighting, deep depth of field at f/8, tack-sharp focus across fur strands, glossy satin sheen, and cosmetic makeup details, zero blurry bokeh, Kodak Vision3 500T 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 5528301.
+Negative Prompt: human face, natural humble clothes, 3d render, cgi, cartoon, anime, illustration, doll plastic skin, soft blurry edges, text, watermark.
+```
+
+---
+
+## 4. 🕶️ GREVY (CEO KUCING HITAM PLAYBOY & TUKANG SELINGKUH)
+* **Master Seed:** `6639402`
+* **Spesifikasi Biologis:** Kucing Bombay hitam legam mengkilap (*sleek jet-black glossy biological fur*), mata kuning amber licik dan congkak, seringai playboy memperlihatkan taring putih.
+* **Kostum:** Jas bisnis pinstripe abu-abu arang mengkilap, kemeja hitam sutra terbuka di dada memperlihatkan kalung rantai emas tebal, kacamata hitam desainer berbingkai emas, cerutu menyala di cakar hitamnya, sepatu pantofel kulit buaya hitam mengkilap.
+
+```text
+Raw unedited full-body studio photograph of Grevy, an anthropomorphic male Bombay cat corporate playboy and fraudster standing in an arrogant pose against a seamless solid pure white background (#FFFFFF). Athletic muscular frame, sleek glossy jet-black biological short fur with satin sheen, shrewd glowing amber-yellow eyes with a smug patronizing smirk revealing pointed feline teeth. Wearing a flashy dark charcoal pinstripe Italian-cut suit jacket, black silk dress shirt unbuttoned at the collar displaying a heavy gold chain on his furry chest, tailored trousers, and pointed shiny black leather dress shoes. A pair of gold-rimmed dark sunglasses is hooked onto his suit lapel, and a lit premium cigar is held between his clawed black fingers. Arrogant, smug posture looking down. High-contrast studio lighting, deep depth of field at f/8, razor-sharp focus on black fur and fabric textures, zero blurry bokeh, Kodak Vision3 500T 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 6639402.
+Negative Prompt: human skin, human face, 3d render, cgi, cartoon, anime, illustration, flat drawing, blurry background, text overlay, watermark.
+```
+
+---
+
+## 5. 🌸 CICI (KUCING PERSIA PUTIH TULUS / ISTRI SEJATI SULTAN)
+* **Master Seed:** `7740503`
+* **Spesifikasi Biologis:** Kucing ras Persia putih murni (*pristine pure white biological Persian-Angora fur*), mata biru safir jernih berbinar hangat dan jujur, hidung pink imut, bulu pipi halus lembut.
+* **Kostum Sederhana:** Gaun katun vintage warna krem pastel bermotif bunga-bunga lembut (*modest pastel-cream floral cotton dress*), celemek linen abu-abu muda bersih toko kelontong, tanpa perhiasan mewah, anggun dan bersahaja.
+
+```text
+Raw unedited full-body studio portrait of Cici, a gentle and sincere anthropomorphic female white Persian-Angora cat against an isolated seamless solid pure white background (#FFFFFF). Graceful, modest feminine feline humanoid frame, pristine biological pure white long fluffy fur, luminous clear sapphire-blue eyes radiating warmth, empathy, and innocence, soft pink feline nose and delicate white whiskers. Wearing a modest vintage pastel-cream floral cotton midi dress beneath a clean, simple light-grey linen grocery shop apron tied neatly around her waist. Her white clawed paws are folded gently in front of her in a respectful, welcoming posture. A tender, compassionate, sweet smile touches her feline lips. Studio soft natural fill lighting, deep depth of field at f/8, razor-sharp focus on white fur filaments, linen fabric weave, and expressive sparkling blue eyes, zero blurry bokeh, Kodak Vision3 500T 35mm film grain. Aspect ratio 9:16 vertical portrait. Master Seed: 7740503.
+Negative Prompt: heavy makeup, gaudy clothes, human face, human skin, 3d render, cgi, cartoon, anime, illustration, airbrushed textures, text, watermark.
+```
+
+---
+
+## 6. 💎 PROPERTI MAHAR & PERHIASAN KUNCI (KEY PROPS)
+
+### Prop A: Cincin Emas 2 Gram Rp 1,99T (Milik Grevy)
+* **Spesifikasi:** Cincin emas tipis polos seberat 2 gram dengan kotak beludru merah bertuliskan lebel harga palsu Rp 1.990.000.000.000 (1,99T).
+* **Format Prompt:** Macro photography, Canon EOS R5 85mm f/11, white background `#FFFFFF`.
+
+```text
+Raw unedited macro studio photograph of an antique gold ring resting inside an open small crimson-red velvet jewelry box on an isolated seamless solid pure white background (#FFFFFF). A thin, lightweight 2-gram yellow gold band ring with polished surface, beside a small paper luxury price tag clearly stamped: "IDR 1,990,000,000,000 (1.99T)". Studio directional lighting highlighting the delicate gold curvature and velvet texture, deep depth of field at f/11, razor-sharp focus across every minute metal reflection, zero blurry bokeh, authentic 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 6639402.
+Negative Prompt: fingers, hands, human skin, cartoon, 3d render, cgi, plastic gold, text overlay, watermark.
+```
+
+### Prop B: Cincin Berlian 999,1 Quintiliun (Lamaran Oyen untuk Cici)
+* **Spesifikasi:** Cincin platinum bertahtakan berlian biru laut raksasa 100 karat dengan potongan cushion cut mulus, dikelilingi taburan berlian murni berkilau tiada tara senilai 999,1 Quintiliun Rupiah.
+* **Format Prompt:** Macro photography, Canon EOS R5 85mm f/11, white background `#FFFFFF`.
+
+```text
+Raw unedited macro studio photograph of the ultimate royal engagement ring resting on a royal blue velvet cushion against an isolated seamless solid pure white background (#FFFFFF). A massive, flawless 100-carat cushion-cut deep royal blue diamond mounted in a solid platinum band, flanked by tiers of brilliant-cut clear white diamonds sparkling with intense prism refraction. Extreme specular highlights and sharp facets reflecting pristine clarity, accompanied by a small royal gold certificate plate inscribed: "999.1 QUINTILLION BLUE DIAMOND". Deep depth of field at f/11, tack-sharp macro focus on diamond facets and platinum claws, zero blurry bokeh, authentic physical optical dispersion. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+Negative Prompt: hands, fingers, cartoon, 3d render, cgi, flat drawing, fake plastic diamond, text errors, watermark.
+```
+
+### Prop C: Istana Mega-Mansion Kencana (Dibangun Bertahun-Tahun)
+* **Spesifikasi:** Istana rumah mewah megah arsitektur neoklasik modern di atas puncak bukit pribadi, pilar marmer putih Italia, kolam renang kristal bertingkat, helipad emas, dan gerbang besi berukir singa emas 24k.
+
+```text
+Raw unedited architectural exterior photograph of the Kencana Mega-Mansion estate built over years on a private hilltop against a dramatic sunset sky. Monumental neoclassical modern palace featuring polished white Italian marble colonnades, grand sweeping double staircases, multi-tiered crystal infinity swimming pools, private rooftop gold helipad, and expansive manicured royal botanical gardens enclosed by ornate wrought-iron and 24k gold lion-crested gates. Warm architectural facade lighting illuminating intricate stone carvings. Shot on Canon EOS R5 with 24mm tilt-shift lens at f/8, deep depth of field, edge-to-edge razor-sharp focus from the front fountain to the grand portico, zero blurry bokeh, Kodak Vision3 500T 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+Negative Prompt: human beings, cartoon, anime, 3d render, cgi, flat illustration, poor architecture, blurry edges, text overlay, watermark.
+```
