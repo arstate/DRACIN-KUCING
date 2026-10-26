@@ -2,7 +2,7 @@
 ## Cerita: "Kucing Oyen Sang Sultan Kuli" (Episode 01 - Scene 04)
 
 Berkas ini berisi **4 Prompt Terpisah (1 Prompt Per Shot)** untuk variasi sudut kamera (*cinematic framing*) di Scene 04.
-Setiap shot **WAJIB MENGINPUTKAN GAMBAR HASIL MASTER SCENE 04** (`S1_SCENE_04_MASTER.png`) sebagai gambar referensi utama agar postur Oyen, wearpack kuli basah, gerbang mega-mansion, kartu titanium, dan ponsel satelit emas 100% konsisten!
+Setiap shot **WAJIB MENGINPUTKAN GAMBAR HASIL MASTER SCENE 04** (`S1_SCENE_04_MASTER.png`) sebagai gambar referensi utama agar postur Oyen, kaos kuli bolong basah Oyen, gerbang mega-mansion, kartu titanium, dan ponsel satelit emas 100% konsisten!
 
 * **Folder Simpan Hasil:** `S1_EPS_01/SCENE_04/HASIL_GEN_MULTISHOT/`
 
@@ -27,7 +27,7 @@ human bodies, cheap house, sunny day, dry ground, 3d render, cgi, cartoon, anime
 ---
 
 ## 🎥 SHOT 4.2: MEDIUM SHOT - KEBANGKITAN KAISAR DINGIN DARI LUMPUR (50mm f/8)
-* **Framing:** Medium Hero Rise Action. Menyorot momen Oyen berdiri tegak dengan wibawa kaisar pemangsa tertinggi, air hujan mengalir deras di pundak kekarnya yang dibalut wearpack kuli basah kuyup, menghapus sisa air mata dan debu semen.
+* **Framing:** Medium Hero Rise Action. Menyorot momen Oyen berdiri tegak dengan wibawa kaisar pemangsa tertinggi, air hujan mengalir deras di pundak kekarnya yang dibalut kaos kuli bolong basah kuyup, menghapus sisa air mata dan debu semen.
 * **Input Image Reference di Nano Banana 2.1:**
   1. `HASIL_GEN_MASTER/S1_SCENE_04_MASTER.png` (Bobot: `0.90`)
   2. `INPUT_REF_IMAGE/REF_02_OYEN_BANGKIT_MATA_DINGIN.png` (Bobot: `0.85`)
@@ -35,7 +35,7 @@ human bodies, cheap house, sunny day, dry ground, 3d render, cgi, cartoon, anime
 
 ### 📋 1 Prompt Copas Nano Banana (Shot 4.2):
 ```text
-Raw unedited medium hero shot photograph matching Master Scene 4 reference. Oyen the athletic muscular anthropomorphic male ginger orange tabby cat stands rigidly upright, chest expanded with terrifying physical presence and absolute authority. His torn khaki canvas kuli jumpsuit is saturated black with rainwater, steam rising subtly from his warm muscular feline shoulders into the cold rain. Rain rivulets stream across his face, washing away every trace of weakness and cement dust. His posture radiates cold sovereign dominance. In the background, the ornate spiked iron gate and distant lightning flashes frame his imposing silhouette. Canon EOS R5 with 50mm lens at f/8, deep depth of field, tack-sharp focus on the drenched fabric texture, wet fur sheen, and rain streaks, zero blurry bokeh, 35mm film grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+Raw unedited medium hero shot photograph matching Master Scene 4 reference. Oyen the athletic muscular anthropomorphic male ginger orange tabby cat stands rigidly upright, chest expanded with terrifying physical presence and absolute authority. His torn, faded threadbare grey cotton t-shirt full of holes is saturated black with rainwater, steam rising subtly from his warm muscular feline shoulders into the cold rain. Rain rivulets stream across his face, washing away every trace of weakness and cement dust. His posture radiates cold sovereign dominance. In the background, the ornate spiked iron gate and distant lightning flashes frame his imposing silhouette. Canon EOS R5 with 50mm lens at f/8, deep depth of field, tack-sharp focus on the drenched fabric texture, wet fur sheen, and rain streaks, zero blurry bokeh, 35mm film grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
 ```
 * **Negative Prompt:**
 ```text
@@ -72,7 +72,7 @@ human eyes, warm friendly expression, smiling, 3d render, cgi, cartoon, anime, i
 
 ### 📋 1 Prompt Copas Nano Banana (Shot 4.4):
 ```text
-Raw unedited dramatic low-angle heroic action photograph matching Master Scene 4 reference. Seen from a low perspective looking upward at Oyen the anthropomorphic male ginger orange tabby cat tycoon in his rain-soaked khaki jumpsuit. With his clawed left hand, he holds up a black titanium corporate card embossed with a golden Four-Fanged Lion crest reading "KENCANA GROUP: SUPREME OWNER". With his right clawed hand, he firmly presses a solid 24k gold satellite telephone to his ear, his feline jaw set in a cold, deadly command. Exactly at this instant, a ferocious vertical bolt of blue-white lightning tears across the pitch-black sky directly above the grand mega-mansion gates, freezing raindrops in mid-air and illuminating his unyielding predatory gaze. Canon EOS R5 with 50mm lens at f/8, 1/2000s shutter speed, deep depth of field, tack-sharp focus from the engraved gold lion crest on the titanium card to the lightning bolt, zero blurry bokeh, authentic 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+Raw unedited dramatic low-angle heroic action photograph matching Master Scene 4 reference. Seen from a low perspective looking upward at Oyen the anthropomorphic male ginger orange tabby cat tycoon in his rain-soaked hole-riddled grey kuli t-shirt and torn work pants. With his clawed left hand, he holds up a black titanium corporate card embossed with a golden Four-Fanged Lion crest reading "KENCANA GROUP: SUPREME OWNER". With his right clawed hand, he firmly presses a solid 24k gold satellite telephone to his ear, his feline jaw set in a cold, deadly command. Exactly at this instant, a ferocious vertical bolt of blue-white lightning tears across the pitch-black sky directly above the grand mega-mansion gates, freezing raindrops in mid-air and illuminating his unyielding predatory gaze. Canon EOS R5 with 50mm lens at f/8, 1/2000s shutter speed, deep depth of field, tack-sharp focus from the engraved gold lion crest on the titanium card to the lightning bolt, zero blurry bokeh, authentic 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
 ```
 * **Negative Prompt:**
 ```text

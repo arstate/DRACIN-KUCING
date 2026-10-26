@@ -19,7 +19,7 @@
 
 Oyen (bernama asli **Ochi**) adalah Bos Besar dan CEO Tertinggi pemilik **Kencana Imperium**—sebuah konglomerasi bisnis raksasa pemilik aset bernilai ratusan juta quintiliun rupiah.
 
-Demi menguji ketulusan calon pasangannya dan menginspeksi proyek rumah mewah (*mega-mansion*) yang sedang ia bangun selama bertahun-tahun di atas bukit pribadi, Oyen sengaja menyamar menjadi kuli bangunan biasa. Ia mengenakan wearpack kanvas lusuh yang penuh noda semen dan oli.
+Demi menguji ketulusan calon pasangannya dan menginspeksi proyek rumah mewah (*mega-mansion*) yang sedang ia bangun selama bertahun-tahun di atas bukit pribadi, Oyen sengaja menyamar menjadi kuli bangunan biasa ala tukang kuli proyek Indonesia. Ia mengenakan kaos oblong katun lusuh belel yang bolong-bolong di dada dan pundak, penuh noda semen putih kering, handuk kecil lusuh melingkar di leher, celana katun robek di lutut, dan bot karet hitam butut. Setting lokasi berlatar otentik proyek konstruksi perkotaan Indonesia: perancah steger bambu tradisional, molen cor semen bensin, ember cor karet ban hitam, tumpukan bata merah pres, karung semen beralas terpal oranye-biru, dan tiang listrik PLN berkabel semrawut.
 
 Namun, calon istri yang ingin ia lamar bernama **Molly** (kucing cewek Calico yang matre dan congkak) ternyata gagal total dalam ujian kesetiaan ini:
 1. **Penolakan Menyakitkan di Pesta Grevy:** Oyen datang ke pesta mewah keluarga Grevy untuk melamar Molly dengan tabungan kuli di dalam kaleng biskuit sederhana. Molly menolak mentah-mentah, mencemooh Oyen di depan ratusan kucing borjuis, dan menendang kaleng mahar Oyen hingga uang recehnya berhamburan ke aspal basah. Oyen pulang berjalan kaki di tengah hujan lebat dengan hati hancur dan sangat mengenaskan.
@@ -37,7 +37,7 @@ Namun, calon istri yang ingin ia lamar bernama **Molly** (kucing cewek Calico ya
 * **Status:** Sultan Besar Kencana Imperium yang menyamar jadi Kuli Bangunan.
 * **Ras/Biologis:** Kucing cowok oren (*Ginger Tabby*), tubuh kekar atletis, bulu oren hangat dengan belang marmalade tegas, mata tembaga-amber tajam berwibawa, bekas luka kecil (*notch*) di ujung telinga kiri.
 * **Dua Mode Kostum:**
-  * **Mode Kuli Penyamar:** Wearpack kanvas katun tebal warna khaki-tan kusam bernoda semen putih dan oli mesin, kaos oblong abu-abu pudar, sarung tangan kulit tanpa jari, bot kerja kulit cokelat tua, helm kuning tergores.
+  * **Mode Kuli Bangunan Otentik Indonesia:** Kaos oblong katun abu-abu pudar belel berlubang/bolong-bolong di dada dan pundak, noda semen putih kering dan lumpur pasir cor, handuk kecil 'Good Morning' lusuh melingkar di leher, celana katun drill kusam sobek di lutut, sepatu bot karet hitam botol murah khas kuli Indonesia, helm proyek kuning retak/tergores semen di bawah ketiak cakar.
   * **Mode Sultan Kencana:** Jas bespoke 3-piece wol kasmir hitam arang bergaris pinstripe emas 24k murni, kemeja putih katun Mesir, pin singa bertaring empat emas murni di kerah jas, jam tangan emas Patek Philippe, sepatu pantofel kulit buaya hitam mengkilap.
 * **Karakter:** Tulus, pekerja keras, dingin dan membeku saat dikhianati, berwibawa mutlak, adil, penyayang sejati.
 * **Master Seed Nano Banana:** `8849201`.

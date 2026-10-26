@@ -2,7 +2,7 @@
 ## Cerita: "Kucing Oyen Sang Sultan Kuli" (Episode 01 - Scene 02)
 
 Berkas ini berisi **4 Prompt Terpisah (1 Prompt Per Shot)** untuk variasi sudut kamera (*cinematic framing*) di Scene 02.
-Setiap shot **WAJIB MENGINPUTKAN GAMBAR HASIL MASTER SCENE 02** (`S1_SCENE_02_MASTER.png`) sebagai gambar referensi utama agar suasana hujan badai, wearpack basah Oyen, kemewahan Grevy, dan gaun Molly 100% konsisten!
+Setiap shot **WAJIB MENGINPUTKAN GAMBAR HASIL MASTER SCENE 02** (`S1_SCENE_02_MASTER.png`) sebagai gambar referensi utama agar suasana hujan badai, kaos kuli bolong basah Oyen, kemewahan Grevy, dan gaun Molly 100% konsisten!
 
 * **Folder Simpan Hasil:** `S1_EPS_01/SCENE_02/HASIL_GEN_MULTISHOT/`
 
@@ -17,7 +17,7 @@ Setiap shot **WAJIB MENGINPUTKAN GAMBAR HASIL MASTER SCENE 02** (`S1_SCENE_02_MA
 
 ### 📋 1 Prompt Copas Nano Banana (Shot 2.1):
 ```text
-Raw unedited wide environmental vertical photograph expanding directly from Master Scene 2 reference. A dark, rain-swept Indonesian city street at night under heavy tropical rainfall. In the foreground along the cracked asphalt roadway, Oyen the anthropomorphic male ginger orange tabby cat laborer walks away in isolation, clutching a bent biscuit tin; his khaki canvas jumpsuit is soaked black, rainwater dripping off his drooping ears and tail. Behind him across wide rainwater puddles reflecting sodium streetlamps, the warm, dry terrace of the grand ballroom glows with incandescent golden light where silhouetted wealthy cat couples stand sheltered from the storm. Canon EOS R5 with 35mm lens at f/8, deep depth of field, sharp focus across splash ripples in the asphalt potholes and distant architectural columns, zero blurry bokeh, authentic rainy night atmosphere, Kodak Vision3 500T 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+Raw unedited wide environmental vertical photograph expanding directly from Master Scene 2 reference. A dark, rain-swept Indonesian city street at night under heavy tropical rainfall. In the foreground along the cracked asphalt roadway, Oyen the anthropomorphic male ginger orange tabby cat laborer walks away in isolation, clutching a bent biscuit tin; his faded threadbare grey t-shirt riddled with holes is soaked black and drenched in rain, with a wet sweat towel around his neck, rainwater dripping off his drooping ears and tail. Behind him across wide rainwater puddles reflecting sodium streetlamps, the warm, dry terrace of the grand ballroom glows with incandescent golden light where silhouetted wealthy cat couples stand sheltered from the storm. Canon EOS R5 with 35mm lens at f/8, deep depth of field, sharp focus across splash ripples in the asphalt potholes and distant architectural columns, zero blurry bokeh, authentic rainy night atmosphere, Kodak Vision3 500T 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
 ```
 * **Negative Prompt:**
 ```text

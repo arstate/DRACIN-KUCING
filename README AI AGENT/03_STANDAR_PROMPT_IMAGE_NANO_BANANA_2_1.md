@@ -36,12 +36,12 @@ Gunakan seed tetap berikut di Nano Banana 2.1 untuk mengunci struktur tulang, pr
 
 | Karakter / Aset | Master Seed Resmi | Ciri Khas Biologis & Kostum Terkunci |
 | :--- | :--- | :--- |
-| **Oyen / Ochi** | `8849201` | Bulu oren belang marmalade, mata tembaga-amber, luka notch di ujung telinga kiri, tubuh atletis kekar. |
+| **Oyen / Ochi** | `8849201` | Bulu oren belang marmalade, mata tembaga-amber, luka notch di ujung telinga kiri, tubuh atletis kekar, kaos kuli belel bolong-bolong & noda semen cor Indonesia. |
 | **Molly** | `5528301` | Kucing Calico belang tiga, mata hijau dengan riasan eyeliner hitam menor tebal, gaun mini satin hot-pink ketat. |
 | **Grevy** | `6639402` | Kucing Bombay hitam legam mengkilap, mata kuning amber licik, seringai taring tajam, jas pinstripe arang & cerutu. |
 | **Cici** | `7740503` | Kucing Persia putih murni halus, mata biru safir jernih berbinar tulus, gaun katun floral pastel & celemek linen. |
 | **Nico William** | `9951604` | Anak kucing persilangan bulu putih berbelang marmalade halus, mata biru-amber, setelan beludru navy mini. |
-| **Latar Environment** | `9928101` | Arsitektur metropolitan Indonesia realistis f/8. |
+| **Latar Environment** | `9928101` | Arsitektur proyek & kota metropolitan Indonesia realistis f/8 (steger bambu, molen semen, ember karet, kabel tiang PLN). |
 
 ---
 

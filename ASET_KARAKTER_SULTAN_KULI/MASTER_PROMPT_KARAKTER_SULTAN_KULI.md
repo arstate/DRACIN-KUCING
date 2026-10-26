@@ -4,14 +4,14 @@
 
 ---
 
-## 1. 🐱 OYEN / OCHI (MODE PENYAMARAN KULI PROYEK RUMAH MEWAH)
+## 1. 🐱 OYEN / OCHI (MODE PENYAMARAN KULI BANGUNAN OTENTIK INDONESIA)
 * **Master Seed:** `8849201`
-* **Spesifikasi Biologis:** Kucing cowok oren (*Ginger Tabby*), atletis kekar berotot, bulu oren hangat dengan belang marmalade tegas, mata tembaga-amber tajam berwibawa, bekas luka kecil di ujung telinga kiri.
-* **Kostum Kuli:** Wearpack kanvas katun tebal warna khaki kusam bernoda semen dan oli mesin, kaos abu-abu pudar, sarung tangan kulit tanpa jari, bot kerja kulit cokelat tua, helm proyek kuning tergores.
+* **Spesifikasi Biologis:** Kucing cowok oren lokal Indonesia (*Domestic Ginger Tabby*), atletis kekar berotot, cakar berurat kapalan kerja keras, bulu oren hangat dengan belang marmalade tegas agak lepek berkeringat, mata tembaga-amber tajam berwibawa, bekas luka kecil di ujung telinga kiri (*notched ear tip*).
+* **Kostum Kuli Otentik Indonesia:** Kaos oblong katun abu-abu kusam/pudar belel bolong-bolong di dada dan pundak (*distressed threadbare t-shirt with holes and frayed tears*), bercak noda semen putih mengering dan cipratan pasir cor, handuk kecil lusuh melingkar di leher (*faded sweat towel around neck*), celana kargo/drill kusam robek di lutut bernoda adukan semen, sepatu bot karet hitam botol murah (*battered black rubber boots*), helm proyek kuning tergores baretan semen di bawah ketiak cakar.
 
 ```text
-Raw unedited full-body studio photograph of Oyen, an athletic anthropomorphic male ginger orange tabby cat construction worker against an isolated seamless solid pure white background (#FFFFFF). Muscular broad-shouldered feline humanoid frame, authentic biological orange tabby fur with marmalade striping, resolute copper-amber eyes, and a small healed battle scar notch on the tip of his left cat ear. Dressed in a dusty, worn khaki-tan duck canvas construction jumpsuit stained with white dry cement powder and engine grease smudges over a faded grey crewneck undershirt, battered fingerless leather work gloves on his clawed paws, and heavy distressed leather work boots. A scratched yellow safety hardhat is held under his arm. Sincere, humble, and hardworking facial expression looking forward. Studio balanced dual-strobe key lighting, deep depth of field at f/8, tack-sharp focus across fur texture, fabric wrinkles, and cement dust particles, zero blurry bokeh, zero shadows on white backdrop, Kodak Vision3 500T 35mm film grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
-Negative Prompt: human face, human skin, clean suit, business attire, smiling, 3d render, cgi, cartoon, anime, illustration, doll plastic skin, grey background, text overlay, watermark.
+Raw unedited full-body studio photograph of Oyen, an athletic anthropomorphic male Indonesian domestic ginger orange tabby cat construction laborer against an isolated seamless solid pure white background (#FFFFFF). Muscular broad-shouldered feline humanoid build with defined sinewy arms, realistic biological orange tabby fur with sweat-matted fur texture, resolute copper-amber feline eyes, and a distinct healed battle scar notch on the tip of his left ear. Dressed in authentic Indonesian construction worker attire: a faded, threadbare grey cotton crewneck t-shirt riddled with frayed tears and realistic worn-out holes across the chest and waist, heavily stained with white dried cement powder splatters and dark grease smudges; a thin, weathered cotton sweat towel loosely draped around his muscular neck; distressed charcoal-grey canvas cargo work pants torn at the knees with frayed edges and concrete stains; and heavy battered black rubber work boots. A scratched, cement-dusted yellow safety helmet rests tucked under his clawed arm. Earnest, dignified, and hardworking facial expression looking straight ahead. Crisp studio dual-strobe key lighting, deep depth of field at f/8, tack-sharp focus across fur strands, cotton fabric holes, and dried cement dust textures, zero blurry bokeh, zero shadows on white backdrop, authentic Kodak Vision3 500T 35mm film grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+Negative Prompt: clean clothes, neat suit, intact expensive t-shirt, human face, human skin, business attire, smiling, 3d render, cgi, cartoon, anime, illustration, doll plastic skin, grey background, text overlay, watermark.
 ```
 
 ---
@@ -90,4 +90,23 @@ Negative Prompt: hands, fingers, cartoon, 3d render, cgi, flat drawing, fake pla
 ```text
 Raw unedited architectural exterior photograph of the Kencana Mega-Mansion estate built over years on a private hilltop against a dramatic sunset sky. Monumental neoclassical modern palace featuring polished white Italian marble colonnades, grand sweeping double staircases, multi-tiered crystal infinity swimming pools, private rooftop gold helipad, and expansive manicured royal botanical gardens enclosed by ornate wrought-iron and 24k gold lion-crested gates. Warm architectural facade lighting illuminating intricate stone carvings. Shot on Canon EOS R5 with 24mm tilt-shift lens at f/8, deep depth of field, edge-to-edge razor-sharp focus from the front fountain to the grand portico, zero blurry bokeh, Kodak Vision3 500T 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
 Negative Prompt: human beings, cartoon, anime, 3d render, cgi, flat illustration, poor architecture, blurry edges, text overlay, watermark.
+```
+
+
+---
+
+## 7. 🇮🇩 STANDAR SET LOKASI OTENTIK INDONESIA (INDONESIAN CONSTRUCTION ENVIRONMENT)
+* **Atmosfer:** Proyek konstruksi bangunan bertingkat / mega-mansion khas kota besar Indonesia di bawah iklim tropis lembap.
+* **Elemen Visual Wajib Indonesia:**
+  - Steger bambu tradisional (*traditional bamboo scaffolding tied with wire*) bersanding dengan perancah besi berkarat.
+  - Mesin molen semen cor bensin (*concrete mixer machine*) warna oranye/kuning berlumur adukan semen kering.
+  - Ember cor hitam dari karet ban bekas (*recycled rubber concrete buckets*) dan gerobak dorong sorong merah kusam (*worn red wheelbarrow*).
+  - Tumpukan bata merah pres lokal dan batako kasar beralas tanah liat becek.
+  - Tumpukan karung semen bertumpuk rapi di bawah terpal plastik terpal oranye-biru (*blue-orange tarp*).
+  - Kabel rol listrik gulung semrawut melintang dari tiang kayu darurat ke stopkontak gantung.
+  - Di luar pagar seng proyek: pemandangan deretan ruko bertingkat berkanopi seng gelombang, tiang listrik PLN dengan jalinan kabel semrawut khas Indonesia, pohon pisang di tepi parit selokan, dan aspal tambalan basah.
+
+```text
+Raw unedited environmental documentary photograph of an authentic urban construction site in Indonesia during late afternoon. In the foreground, muddy clay ground littered with wooden planks, stacks of raw red clay bricks, a battered orange concrete mixer machine coated in dried grey cement splatter, black rubber buckets, and a worn red wheelbarrow. Towering bamboo scaffolding structures lashed with wire rise alongside rusty steel frames of a developing mansion estate. A large blue-and-orange waterproof poly-tarp covers stacks of cement bags. Overhead, tangled electrical power cables stretch haphazardly from makeshift wooden poles toward the background where Indonesian shophouses with corrugated zinc awnings and a tangled city street skyline are visible under overcast tropical sky. Shot on Canon EOS R5 with 35mm lens at f/8, deep depth of field, razor-sharp edge-to-edge focus from wet ground mud to the bamboo scaffolding joints, zero blurry bokeh, authentic tropical ambient lighting, Kodak Vision3 500T 35mm film grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+Negative Prompt: western construction, clean modern sterile site, snow, autumn, human beings, 3d render, cgi, cartoon, anime, illustration, blurry bokeh, soft focus, text overlay, watermark.
 ```

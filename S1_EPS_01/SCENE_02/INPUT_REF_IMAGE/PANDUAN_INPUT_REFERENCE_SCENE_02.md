@@ -13,7 +13,7 @@ Folder ini adalah tempat Anda menaruh gambar referensi yang akan di-upload / di-
 * **Fungsi:** Mengunci tata ruang atmosfer kesedihan dan hujan badai. Diambil dari generate prompt [`01_PROMPT_LATAR_SCENE_02.md`](../01_PROMPT_LATAR_SCENE_02.md).
 
 ### 2. `REF_02_OYEN_KEHUJANAN_MENGENASKAN.png`
-* **Deskripsi:** Oyen kuli berjalan gontai membungkuk di tengah hujan deras, wearpack kanvas basah kuyup menggelap, bulu lepek meneteskan air hujan bercampur air mata.
+* **Deskripsi:** Oyen kuli berjalan gontai membungkuk di tengah hujan deras, kaos oblong abu-abu bolong-bolong basah kuyup menggelap, handuk kecil lepek di leher, bulu lepek meneteskan air hujan bercampur air mata.
 * **Fungsi:** Mengunci kerapuhan emosional protagonis utama. Diambil dari generate prompt [`02_PROMPT_KARAKTER_SCENE_02.md`](../02_PROMPT_KARAKTER_SCENE_02.md).
 
 ### 3. `REF_03_GREVY_RANGKUL_MOLLY_TERAS.png`

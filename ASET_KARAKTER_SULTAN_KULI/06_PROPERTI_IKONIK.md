@@ -33,3 +33,12 @@ Raw unedited macro commercial photograph of an extravagant royal velvet presenta
 ```text
 Raw unedited macro commercial photograph of a heavy solid 24k gold satellite telephone with a stubby antenna and a black titanium VIP corporate card embossed with a golden Four-Fanged Lion crest resting on a seamless solid pure white background (#FFFFFF). The gold phone gleams with luxurious metallic luster, and the titanium card displays crisp engraved lettering: "KENCANA GROUP: SUPREME OWNER". Shot on Canon EOS R5 with 100mm macro lens at f/11, deep depth of field, tack-sharp focus on engraved gold and titanium textures, zero blurry bokeh, zero backdrop shadows, Kodak Vision3 500T 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
 ```
+
+
+---
+
+## 👕 5. KAOS KULI BELEL BOLONG-BOLONG & EMBER COR KARET
+* **Target Simpan:** `ASET_KARAKTER_SULTAN_KULI/PROP_KAOS_KULI_DAN_EMBER_COR.png`
+```text
+Raw unedited macro commercial studio photograph of authentic Indonesian construction worker gear resting on an isolated seamless solid pure white background (#FFFFFF). In the center, a faded charcoal-grey cotton crewneck t-shirt heavily riddled with realistic small holes, frayed rips along the hem, and dried white cement powder splatters, folded next to a thin weathered cotton Good Morning sweat towel with red stripe borders. Beside it sits a battered black recycled-rubber concrete bucket with wire handle coated in dry mortar crumbs, and a scratched yellow plastic safety hardhat. Shot on Canon EOS R5 with 100mm macro lens at f/11, deep depth of field, razor-sharp focus on fabric tears, cement crust, and bucket rubber texture, zero blurry bokeh, zero shadows on white backdrop, Kodak Vision3 500T 35mm grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+```

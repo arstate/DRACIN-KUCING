@@ -4,17 +4,24 @@
 
 ---
 
-## 🏗️ 1. OYEN MODE KULI PROYEK (WEARPACK KHAKI)
+## 🏗️ 1. OYEN MODE KULI BANGUNAN INDONESIA (KAOS BELEL BOLONG-BOLONG)
 * **Master Seed:** `8849201`
-* **Spesifikasi:** Kucing cowok oren (*Ginger Tabby*), atletis kekar, bulu oren hangat dengan belang marmalade tegas, mata tembaga-amber tajam berwibawa, bekas luka kecil di ujung telinga kiri. Wearpack kanvas katun tebal warna khaki kusam bernoda semen putih dan oli mesin, kaos abu-abu pudar, sarung tangan kulit tanpa jari, bot kerja kulit cokelat tua, helm proyek kuning tergores.
+* **Spesifikasi Biologis:** Kucing cowok oren lokal Indonesia (*Domestic Ginger Tabby*), postur atletis kekar berotot, cakar kekar berurat dan kapalan kerja keras, bulu oren hangat dengan belang marmalade tegas agak lepek berkeringat, mata tembaga-amber tajam berwibawa, bekas luka kecil di ujung telinga kiri (*notched ear tip*).
+* **Kostum Kuli Otentik Indonesia:**
+  - Kaos oblong katun abu-abu kusam/pudar belel yang bolong-bolong berlubang di dada, pundak, dan ujung bawah (*distressed threadbare crewneck t-shirt full of small realistic holes, frayed hems, and sweat stains*).
+  - Noda semen putih kering, cipratan adukan pasir basah, dan noda oli mesin membekas di kain kaos dan bulu.
+  - Handuk kecil lusuh (ala handuk Good Morning kuli) melingkar di leher (*faded thin sweat towel draped around the neck*).
+  - Celana kargo katun drill kusam warna charcoal/khaki robek di lutut bernoda adukan cor semen.
+  - Sepatu bot karet hitam murah butut khas kuli proyek Indonesia (*battered black rubber boots*).
+  - Helm proyek kuning tergores baretan semen dipegang di bawah ketiak cakar.
 * **Target Simpan:** `ASET_KARAKTER_SULTAN_KULI/OYEN_MODE_KULI.png`
 
 ```text
-Raw unedited full-body studio photograph of Oyen, an athletic anthropomorphic male ginger orange tabby cat construction worker against an isolated seamless solid pure white background (#FFFFFF). Muscular broad-shouldered feline humanoid frame, authentic biological orange tabby fur with marmalade striping, resolute copper-amber eyes, and a small healed battle scar notch on the tip of his left cat ear. Dressed in a dusty, worn khaki-tan duck canvas construction jumpsuit stained with white dry cement powder and engine grease smudges over a faded grey crewneck undershirt, battered fingerless work gloves on his clawed paws, and heavy distressed leather work boots. A scratched yellow safety hardhat is held under his arm. Sincere, humble, and hardworking facial expression looking forward. Studio balanced dual-strobe key lighting, deep depth of field at f/8, tack-sharp focus across fur texture, fabric wrinkles, and cement dust particles, zero blurry bokeh, zero shadows on white backdrop, Kodak Vision3 500T 35mm film grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
+Raw unedited full-body studio photograph of Oyen, an athletic anthropomorphic male Indonesian domestic ginger orange tabby cat construction laborer against an isolated seamless solid pure white background (#FFFFFF). Muscular broad-shouldered feline humanoid build with defined sinewy arms, realistic biological orange tabby fur with sweat-matted fur texture, resolute copper-amber feline eyes, and a distinct healed battle scar notch on the tip of his left ear. Dressed in authentic Indonesian construction worker attire: a faded, threadbare grey cotton crewneck t-shirt riddled with frayed tears and realistic worn-out holes across the chest and waist, heavily stained with white dried cement powder splatters and dark grease smudges; a thin, weathered cotton sweat towel loosely draped around his muscular neck; distressed charcoal-grey canvas cargo work pants torn at the knees with frayed edges and concrete stains; and heavy battered black rubber work boots. A scratched, cement-dusted yellow safety helmet rests tucked under his clawed arm. Earnest, dignified, and hardworking facial expression looking straight ahead. Crisp studio dual-strobe key lighting, deep depth of field at f/8, tack-sharp focus across fur strands, cotton fabric holes, and dried cement dust textures, zero blurry bokeh, zero shadows on white backdrop, authentic Kodak Vision3 500T 35mm film grain. Aspect ratio 9:16 vertical portrait. Master Seed: 8849201.
 ```
 * **Negative Prompt:**
 ```text
-human face, human skin, clean suit, business attire, smiling, 3d render, cgi, cartoon, anime, illustration, doll plastic skin, grey background, text overlay, watermark.
+clean clothes, neat suit, intact expensive t-shirt, human face, human skin, business attire, smiling, 3d render, cgi, cartoon, anime, illustration, doll plastic skin, grey background, text overlay, watermark.
 ```
 
 ---
@@ -29,5 +36,5 @@ Raw unedited full-body studio portrait of Oyen in his true billionaire CEO ident
 ```
 * **Negative Prompt:**
 ```text
-dirty clothes, kuli wearpack, human skin, 3d render, cgi, cartoon, anime, airbrushed textures, flat lighting, digital painting, text, watermark.
+dirty clothes, kuli wearpack, holy shirt, human skin, 3d render, cgi, cartoon, anime, airbrushed textures, flat lighting, digital painting, text, watermark.
 ```

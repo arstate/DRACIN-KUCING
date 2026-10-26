@@ -20,6 +20,7 @@ LORE WAJIB & DATA STATED (JANGAN DIUBAH):
 4. Grevy: Kucing Bombay hitam CEO playboy bawahan Oyen yang korup. Cincin 1,99T aslinya cincin loak sepuhan Rp 500rb dari uang proyek Oyen yang dikorupsi.
 5. Cici: Gadis Persia putih tulus penjaga warung kelontong sederhana, cinta sejati Oyen saat masih kuli. Dilamar dengan Cincin Berlian 999,1 Quintiliun, Mahar 2,5 Juta Quintiliun, dan penyerahan istana Mega-Mansion.
 6. Nico William bin Ochi: Anak kandung Oyen & Cici, penerus tahta imperium Kencana.
+7. Kostum Kuli & Set Indonesia: Oyen mode kuli berbusana kuli bangunan asli Indonesia (kaos oblong belel bolong-bolong di dada/pundak, noda semen putih mengering, handuk kecil lusuh di leher, celana katun robek di lutut, bot karet hitam butut). Setting proyek berlatar Indonesia (steger bambu tradisional, molen semen cor bensin, ember cor karet ban hitam, bata merah pres, terpal oranye-biru, ruko seng, tiang listrik PLN berkabel semrawut).
 
 STANDAR TEKNIS PROMPT (NANO BANANA 2.1):
 - Optik Kamera: Canon EOS R5, 35mm/50mm/85mm at f/8, deep depth of field, edge-to-edge tack-sharp, zero blurry bokeh, Kodak Vision3 500T 35mm film grain, 9:16 vertical portrait.
