@@ -31,7 +31,7 @@ Dokumentasi SSOT: folder README AI AGENT/
 
 ## 🧭 2. DOKUMENTASI LENGKAP SISTEM (`README AI AGENT/`)
 Seluruh panduan teknis, spesifikasi prompt Nano Banana 2.1, lore semesta kucing, karakter, nominal stated, dan SOP pembuatan episode tersimpan rapi di dalam folder:
-👉 **[`README AI AGENT/`](file:///mnt/HDD-2/BACKUP%20LINUX/FILE%20DATA/DRACIN%20KUCING/README%20AI%20AGENT/00_README_MASTER_AGENTS.md)** (atau `README_AI_AGENT/`)
+👉 **[`README AI AGENT/`](file:///mnt/HDD-2/BACKUP%20LINUX/FILE%20DATA/DRACIN%20KUCING/README%20AI%20AGENT/00_README_MASTER_AGENTS.md)**
 
 ### Daftar Dokumen di dalam `README AI AGENT/`:
 1. **[`00_README_MASTER_AGENTS.md`](file:///mnt/HDD-2/BACKUP%20LINUX/FILE%20DATA/DRACIN%20KUCING/README%20AI%20AGENT/00_README_MASTER_AGENTS.md)**: Ikhtisar eksekutif & 3 aturan emas non-negotiable.
