@@ -46,30 +46,24 @@ Setiap episode dirancang presisi dengan 4 Scene terukur:
 
 ---
 
-## 📂 4. STANDAR 6 FILE WAJIB PER FOLDER EPISODE (`S1_EPS_XX/`)
-Setiap folder episode `S1_EPS_XX/` (misal `S1_EPS_01/`, `S1_EPS_02/`, dst.) WAJIB berisi 6 berkas operasional:
-
-1. **`CERITA_NASKAH_EPS_XX.txt`:**
-   Naskah cerita 120 detik, lengkap dengan dialog verbatim per detik, petunjuk SFX audio, deskripsi visual kamera, dan naskah mega-cliffhanger.
-2. **`01_PROMPT_SCENE_LATAR.md`:**
-   Prompt tunggal Nano Banana 2.1 untuk mengenerate latar/environment 4 scene (tanpa karakter).
-3. **`02_PROMPT_KARAKTER_AKTOR_PER_SCENE.md`:**
-   Prompt karakter aktor terisolasi di latar putih solid `#FFFFFF` f/8 untuk acuan karakter.
-4. **`03_PROMPT_MASTER_SCENE_UTAMA.md`:**
-   Prompt gabungan Master Scene definitif 1 s/d 4 (1 prompt per scene) dengan multi-image reference stack lengkap.
-5. **`04_PROMPT_MULTISHOT_PER_SCENE.md`:**
-   Prompt variasi multi-shot (4 sudut kamera: Wide, Medium, Close-Up, Special Angle) per scene dengan mewajibkan gambar master scene sebagai referensi utama (bobot `0.90`).
-6. **`05_PROMPT_IMAGE_TO_VIDEO_MULTI_SHOT.md`:**
-   Prompt video AI (Kling / Runway) dengan opsi durasi (4s/6s/8s/10s), gaya kamera handheld organik, dan panduan sinkronisasi dialog agar audio tidak terpotong.
+## 📂 4. STRUKTUR FOLDER EPISODE (BERSIH & MODULAR PER SCENE)
+Untuk menjaga folder tetap rapi tanpa file duplikat:
+* **Di Root Folder Episode (`S1_EPS_XX/`):** HANYA ada 1 file naskah `CERITA_NASKAH_EPS_XX.txt` dan 4 subfolder scene (`SCENE_01/` s/d `SCENE_04/`). Tidak ada file prompt berserakan di root episode!
+* **Di Dalam Masing-Masing Subfolder Scene (`SCENE_01/` s/d `SCENE_04/`):**
+  Tersedia 5 berkas prompt modular berurutan:
+  1. `01_PROMPT_LATAR_SCENE_0X.md`: Prompt latar/environment tanpa karakter (Canon EOS R5 f/8 no bokeh).
+  2. `02_PROMPT_KARAKTER_SCENE_0X.md`: Prompt aktor/karakter terisolasi latar putih `#FFFFFF`.
+  3. `03_PROMPT_MASTER_SCENE_0X.md`: Prompt master scene definitif (gabungan latar, karakter, dan prop).
+  4. `04_PROMPT_MULTISHOT_SCENE_0X.md`: Prompt 4 sudut kamera (Wide, Medium, Close-Up, Low-Angle) dengan gambar master scene sebagai Primary Reference bobot `0.90`.
+  5. `05_PROMPT_VIDEO_SCENE_0X.md`: Prompt video AI (Kling/Runway) dengan opsi durasi (4s/6s/8s/10s), gaya kamera handheld organik, dan sinkronisasi dialog.
 
 ---
 
-## 🗂️ 5. SUBFOLDER OPERASIONAL PER SCENE
-Di dalam folder episode, sediakan 4 subfolder scene (`SCENE_01/`, `SCENE_02/`, `SCENE_03/`, `SCENE_04/`), masing-masing berisi 5 subfolder eksekusi:
+## 🗂️ 5. SUBFOLDER EKSEKUSI PER SCENE
+Di dalam setiap subfolder scene (`SCENE_01/`, `SCENE_02/`, `SCENE_03/`, `SCENE_04/`), terdapat 5 subfolder eksekusi teknis:
 
 * `INPUT_REF_IMAGE/` -> Tempat menaruh file gambar referensi acuan sebelum digenerate.
 * `HASIL_GEN_MASTER/` -> Tempat menyimpan gambar hasil generate master scene utama (`S1_SCENE_XX_MASTER.png`).
 * `HASIL_GEN_MULTISHOT/` -> Tempat menyimpan gambar 4 sudut kamera multi-shot.
 * `INPUT_REF_VIDEO/` -> Tempat menaruh 1 gambar terbaik yang akan di-upload ke mesin video AI.
 * `HASIL_GEN_VIDEO/` -> Tempat menyimpan video akhir hasil render (`S1_SCENE_XX_VIDEO.mp4`).
-* Plus 3 berkas mandiri per scene: `PROMPT_MASTER_SCENE_0X.md`, `PROMPT_MULTISHOT_SCENE_0X.md`, dan `PROMPT_VIDEO_SCENE_0X.md`.
